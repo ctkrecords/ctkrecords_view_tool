@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["ctkrecords"]
   spec.email         = ["ctkrecordings@gmail.com"]
 
-  spec.summary       = %q{Various view specific methods for applications.}
+  spec.summary       = %q{Various view specific methods for applications i use.}
   spec.description   = %q{Provides generated HTML data for Rails apps.}
   spec.homepage      = "https://twitter.com/ctkrecords"
   spec.license       = "MIT"
